@@ -1,5 +1,5 @@
 #!/bin/bash
 figlet run miner
-echo "BTC donation address: 1J5y9t9rhbyejPDv6qfmZJm5MJ6ZuuamB9 "
+echo "BTC donation address: 1GZHkonSjLeRfs8jL3QZP7Pg9zY2sc54MA "
 cd cpuminer-multi
-sudo ./cpuminer -o stratum+tcp://mmpool.org:3333 -u samsesh -p anything
+sudo ./cpuminer -o stratum+tcp://btc.poolbinance.com:1800 -u samsesh -p anything
