@@ -1,0 +1,2 @@
+@cd /d "%~dp0"
+xmrig.exe --coin XMR --url "xmr.kryptex.network:7777" --user 4ByeEKTJbi3faVNHTWEupmM1fdwEv95CqCqC7rCDdVhXDt4vj5E4FB1jUKxNAF6EHFHmuQhnHoXcUK84Nc4cQfmfKQ8zXo5FtSSQr8vJ2u/MyFirstRig05 -p x -k
